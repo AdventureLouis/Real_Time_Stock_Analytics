@@ -1,0 +1,2 @@
+region = "ap-southeast-1"
+alert_email = "your-email@example.com"
