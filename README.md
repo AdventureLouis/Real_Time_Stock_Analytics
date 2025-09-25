@@ -93,5 +93,10 @@ aws dynamodb scan --table-name stock-data --region ap-southeast-1
 
 **Video Demo**
 
-Uploading main.mp4…
+https://github.com/user-attachments/assets/2e75590a-273c-4e60-9674-eb5cbf121288
+
+**Architecture**
+![Architecture](https://github.com/user-attachments/assets/0b7e8ce1-ecdf-49ca-8b63-a6e27961b786)
+
+
 
