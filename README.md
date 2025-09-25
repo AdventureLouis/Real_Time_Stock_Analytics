@@ -90,3 +90,8 @@ aws logs describe-log-groups --log-group-name-prefix "/aws/lambda/stock-trend-an
 ```bash
 aws dynamodb scan --table-name stock-data --region ap-southeast-1
 ```
+
+**Video Demo**
+
+Uploading main.mp4…
+
